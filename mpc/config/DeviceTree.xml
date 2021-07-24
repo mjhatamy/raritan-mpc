@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="RaritanDevices">
+      <map/>
+      <node name="kvm">
+        <map>
+          <entry key="captureBufferSize" value="-1"/>
+          <entry key="colorDepth" value="0"/>
+          <entry key="connectCaptureDevice" value="false"/>
+          <entry key="connectPlaybackDevice" value="true"/>
+          <entry key="connectionSpeed" value="0"/>
+          <entry key="connectionType" value="2"/>
+          <entry key="description" value="kvm"/>
+          <entry key="deviceName" value=""/>
+          <entry key="dnsName" value="kvm"/>
+          <entry key="findBy" value="2"/>
+          <entry key="flowControl" value="0"/>
+          <entry key="framesPerSecond" value="0"/>
+          <entry key="httpsPort" value="443"/>
+          <entry key="ipAddress" value="0.0.0.0"/>
+          <entry key="modem" value=""/>
+          <entry key="password" value=""/>
+          <entry key="phone" value=""/>
+          <entry key="playbackBufferSize" value="-1"/>
+          <entry key="port" value="5000"/>
+          <entry key="privateKey" value=""/>
+          <entry key="productType" value="Dominion KX G2"/>
+          <entry key="progressiveUpdate" value="0"/>
+          <entry key="remember" value="2"/>
+          <entry key="serverName" value=""/>
+          <entry key="smoothing" value="0"/>
+          <entry key="userName" value=""/>
+        </map>
+      </node>
+    </node>
+  </root>
+</preferences>

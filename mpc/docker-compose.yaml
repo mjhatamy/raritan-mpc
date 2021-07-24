@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  raritan:
+    build:
+        context: .
+        dockerfile: Dockerfile
+    ports:
+        - "5999:5900"
+        - "2222:22"
+        - "8880:8080"
+        - "6080:6080"
+    volumes:
+        - ./config:/config
